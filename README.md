@@ -1,2 +1,9 @@
 # Turn-Photos-into-Cartoons-Using-Python
-To create a cartoon effect, we need to pay attention to two things; edge and color palette. Those are what make the differences between a photo and a cartoon. To adjust that two main components, there are four main steps that we will go through: Load image Create edge mask Reduce the color palette Combine edge mask with the colored image Before jumping to the main steps, don’t forget to import the required libraries in your notebook, especially cv2 and NumPy.
+## To create a cartoon effect, we need to pay attention to two things; edge and color palette. Those are what make the differences between a photo and a cartoon.
+## To adjust that two main components, there are four main steps that we will go through:
+### 1.Load image
+### 2.Create 
+### 3.edge mask 
+### 4.Reduce the color palette 
+#### Combine edge mask with the colored image 
+#### Before jumping to the main steps, don’t forget to import the required libraries in your notebook, especially cv2 and NumPy.
