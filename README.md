@@ -7,3 +7,10 @@
 ### 4.Reduce the color palette 
 #### Combine edge mask with the colored image 
 #### Before jumping to the main steps, don’t forget to import the required libraries in your notebook, especially cv2 and NumPy.
+
+## INPUT
+![sss](https://user-images.githubusercontent.com/88342222/156388184-91087142-cb23-4089-852f-2ca61d0efd6d.jpg)
+
+## OUTPUT
+![download (16)](https://user-images.githubusercontent.com/88342222/156388349-e57845cb-96c4-45ee-bf3e-240dc0e33920.png)
+
